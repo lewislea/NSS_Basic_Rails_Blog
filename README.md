@@ -1,14 +1,13 @@
-A Basic Rails Blog
+#A Basic Rails Blog
 -------------------
 
-Purpose
-========
-
+##Purpose
+----------------
 
 this is a learning project for Nashville Software School.  we are following along with our instructor, Eliza Brock, in class.
 
-Features:
-==========
+##Features:
+------------
 
 1. anonymous user should be able to post articles
 2. blog visitors should be able to view articles
@@ -22,28 +21,27 @@ Features:
 10. authors can use media in their posts
 
 
-Usage:
-=======
+##Usage:
+----------
 
 
 
-To Do/Project Status
-====================
+##To Do/Project Status
+-----------------
 
 
-
-Changelog:
-==========
+##Changelog:
+---------------
 
 2013-5-29: Started Project
 
-Author
-=======
+##Author
+------------
 
 Lewis Lea
 
-License:
-=========
+##License:
+--------------
 
 The MIT License (MIT)
 
